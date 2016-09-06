@@ -1,1 +1,6 @@
 D:\Study\C# projects\Lesson 1\C-Sharp-Course\km-to-m\km-to-m\bin\Debug\km-to-m.exe.config
+D:\Study\C# projects\Lesson 1\C-Sharp-Course\km-to-m\km-to-m\bin\Debug\km-to-m.exe
+D:\Study\C# projects\Lesson 1\C-Sharp-Course\km-to-m\km-to-m\bin\Debug\km-to-m.pdb
+D:\Study\C# projects\Lesson 1\C-Sharp-Course\km-to-m\km-to-m\obj\Debug\km-to-m.csprojResolveAssemblyReference.cache
+D:\Study\C# projects\Lesson 1\C-Sharp-Course\km-to-m\km-to-m\obj\Debug\km-to-m.exe
+D:\Study\C# projects\Lesson 1\C-Sharp-Course\km-to-m\km-to-m\obj\Debug\km-to-m.pdb
