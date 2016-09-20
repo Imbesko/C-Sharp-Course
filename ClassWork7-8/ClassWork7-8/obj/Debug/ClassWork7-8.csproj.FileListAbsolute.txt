@@ -1,0 +1,6 @@
+D:\Study\C# projects\Lesson 1\C-Sharp-Course\ClassWork7-8\ClassWork7-8\bin\Debug\ClassWork7-8.exe.config
+D:\Study\C# projects\Lesson 1\C-Sharp-Course\ClassWork7-8\ClassWork7-8\bin\Debug\ClassWork7-8.exe
+D:\Study\C# projects\Lesson 1\C-Sharp-Course\ClassWork7-8\ClassWork7-8\bin\Debug\ClassWork7-8.pdb
+D:\Study\C# projects\Lesson 1\C-Sharp-Course\ClassWork7-8\ClassWork7-8\obj\Debug\ClassWork7-8.csprojResolveAssemblyReference.cache
+D:\Study\C# projects\Lesson 1\C-Sharp-Course\ClassWork7-8\ClassWork7-8\obj\Debug\ClassWork7-8.exe
+D:\Study\C# projects\Lesson 1\C-Sharp-Course\ClassWork7-8\ClassWork7-8\obj\Debug\ClassWork7-8.pdb

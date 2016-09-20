@@ -8,22 +8,15 @@ namespace if_else_lesson
         {
             while (true)
             {
-                Console.Write("Enter the first number: ");
-                float num1 = float.Parse(Console.ReadLine());
-                if (num1 == 'q') break;
-                Console.Write("Enter the action: ");
-                char act = char.Parse(Console.ReadLine());
-                Console.Write("Enter the second number: ");
-                float num2 = float.Parse(Console.ReadLine());
-                switch (act)
-                {
-                    case '+': Console.WriteLine(num1 + num2); break;
-                    case '-': Console.WriteLine(num1 - num2); break;
-                    case '*': Console.WriteLine(num1 * num2); break;
-                    case '/': Console.WriteLine(num1 / num2); break;
-                    default: Console.WriteLine("Please, enter the correct action: "); break;
-                }
-                
+                float price_call = 30;
+                float price_per_km = 5;
+                float result;
+                Console.Write("Enter the distance (km): ");
+                float distance = float.Parse(Console.ReadLine());
+                if (distance == -1) break;
+                if (distance > 1) price_per_km += distance;
+                result = price_per_km + price_call;
+                Console.WriteLine("You have to pay {0} grn", result);
             }
         }
     }

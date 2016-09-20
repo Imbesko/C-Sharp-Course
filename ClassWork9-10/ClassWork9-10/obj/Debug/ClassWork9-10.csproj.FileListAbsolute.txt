@@ -1,0 +1,6 @@
+D:\Study\C# projects\Lesson 1\C-Sharp-Course\ClassWork9-10\ClassWork9-10\bin\Debug\ClassWork9-10.exe.config
+D:\Study\C# projects\Lesson 1\C-Sharp-Course\ClassWork9-10\ClassWork9-10\bin\Debug\ClassWork9-10.exe
+D:\Study\C# projects\Lesson 1\C-Sharp-Course\ClassWork9-10\ClassWork9-10\bin\Debug\ClassWork9-10.pdb
+D:\Study\C# projects\Lesson 1\C-Sharp-Course\ClassWork9-10\ClassWork9-10\obj\Debug\ClassWork9-10.exe
+D:\Study\C# projects\Lesson 1\C-Sharp-Course\ClassWork9-10\ClassWork9-10\obj\Debug\ClassWork9-10.pdb
+D:\Study\C# projects\Lesson 1\C-Sharp-Course\ClassWork9-10\ClassWork9-10\obj\Debug\ClassWork9-10.csprojResolveAssemblyReference.cache
