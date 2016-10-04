@@ -1,0 +1,22 @@
+D:\Development\C-Sharp-Course\Computer-Shop\Computer-Shop\bin\Debug\Computer-Shop.exe.config
+D:\Development\C-Sharp-Course\Computer-Shop\Computer-Shop\bin\Debug\Computer-Shop.exe
+D:\Development\C-Sharp-Course\Computer-Shop\Computer-Shop\bin\Debug\Computer-Shop.pdb
+D:\Development\C-Sharp-Course\Computer-Shop\Computer-Shop\obj\Debug\Computer-Shop.csprojResolveAssemblyReference.cache
+D:\Development\C-Sharp-Course\Computer-Shop\Computer-Shop\obj\Debug\Computer-Shop.exe
+D:\Development\C-Sharp-Course\Computer-Shop\Computer-Shop\obj\Debug\Computer-Shop.pdb
+D:\Study\C# projects\Lesson 1\C-Sharp-Course\Computer-Shop\Computer-Shop\bin\Debug\Computer-Shop.exe.config
+D:\Study\C# projects\Lesson 1\C-Sharp-Course\Computer-Shop\Computer-Shop\obj\Debug\Computer-Shop.exe
+D:\Study\C# projects\Lesson 1\C-Sharp-Course\Computer-Shop\Computer-Shop\obj\Debug\Computer-Shop.pdb
+D:\Study\C# projects\Lesson 1\C-Sharp-Course\Computer-Shop\Computer-Shop\bin\Debug\Computer-Shop.exe
+D:\Study\C# projects\Lesson 1\C-Sharp-Course\Computer-Shop\Computer-Shop\bin\Debug\Computer-Shop.pdb
+D:\Study\C# projects\Lesson 1\C-Sharp-Course\Computer-Shop\Computer-Shop\bin\Debug\mscorlib.dll
+D:\Study\C# projects\Lesson 1\C-Sharp-Course\Computer-Shop\Computer-Shop\bin\Debug\System.Net.Http.dll
+D:\Study\C# projects\Lesson 1\C-Sharp-Course\Computer-Shop\Computer-Shop\bin\Debug\System.Net.Http.xml
+D:\Study\C# projects\Lesson 1\C-Sharp-Course\Computer-Shop\Computer-Shop\bin\Debug\ru\mscorlib.resources.dll
+D:\Study\C# projects\Lesson 1\C-Sharp-Course\Computer-Shop\Computer-Shop\bin\Debug\ru\System.Net.Http.resources.dll
+D:\Study\C# projects\Lesson 1\C-Sharp-Course\Computer-Shop\Computer-Shop\bin\Debug\normidna.nlp
+D:\Study\C# projects\Lesson 1\C-Sharp-Course\Computer-Shop\Computer-Shop\bin\Debug\normnfc.nlp
+D:\Study\C# projects\Lesson 1\C-Sharp-Course\Computer-Shop\Computer-Shop\bin\Debug\normnfd.nlp
+D:\Study\C# projects\Lesson 1\C-Sharp-Course\Computer-Shop\Computer-Shop\bin\Debug\normnfkc.nlp
+D:\Study\C# projects\Lesson 1\C-Sharp-Course\Computer-Shop\Computer-Shop\bin\Debug\normnfkd.nlp
+D:\Study\C# projects\Lesson 1\C-Sharp-Course\Computer-Shop\Computer-Shop\obj\Debug\Computer-Shop.csprojResolveAssemblyReference.cache

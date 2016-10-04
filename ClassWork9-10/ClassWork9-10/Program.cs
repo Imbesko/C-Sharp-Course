@@ -35,12 +35,11 @@ namespace ClassWork9_10
             sum = num1 + num2;
             minus = num1 - num2;
         }
-        static int Sum2(params int[] numbers)
+        static void Sum2(out int sum, params int[] numbers)
         { 
-            int sum = 0;
+            sum = 0;
             foreach (int num in numbers)
-                sum += num;
-            return sum;
+                sum += num;            
         }
         
         static void Main(string[] args)
@@ -60,9 +59,13 @@ namespace ClassWork9_10
                 //Console.WriteLine("Subtraction of 2 numbers = " + minus);
                 //Swap(ref number_1, ref number_2);
                 //Console.WriteLine("num1 = {0}\nnum2 = {1}", number_1, number_2);
-                Console.WriteLine("Sum2: " + Sum2(11,5));
-                Console.WriteLine("Sum2: " + Sum2(11, 5, 10));
-                Console.WriteLine("Sum2: " + Sum2(11, 5, 6, 23, 6, 9));
+                int sum;
+                Sum2(out sum, 5, 15);
+                Console.WriteLine("Sum2: " + sum);
+                Sum2(out sum, 5, 15, 20, 7);
+                Console.WriteLine("Sum2: " + sum);
+                Sum2(out sum, 5, 15, 8, 20);
+                Console.WriteLine("Sum2: " + sum);
 
 
                 Console.WriteLine("\n\nDo you want to do it once more?\n\t Y - yes, N - no");
