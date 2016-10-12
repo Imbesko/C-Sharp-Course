@@ -1,0 +1,6 @@
+D:\Study\C# projects\Lesson 1\C-Sharp-Course\HomeWork4(Methods)\HomeWork4(Methods)\bin\Debug\HomeWork4(Methods).exe.config
+D:\Study\C# projects\Lesson 1\C-Sharp-Course\HomeWork4(Methods)\HomeWork4(Methods)\bin\Debug\HomeWork4(Methods).exe
+D:\Study\C# projects\Lesson 1\C-Sharp-Course\HomeWork4(Methods)\HomeWork4(Methods)\bin\Debug\HomeWork4(Methods).pdb
+D:\Study\C# projects\Lesson 1\C-Sharp-Course\HomeWork4(Methods)\HomeWork4(Methods)\obj\Debug\HomeWork4(Methods).csprojResolveAssemblyReference.cache
+D:\Study\C# projects\Lesson 1\C-Sharp-Course\HomeWork4(Methods)\HomeWork4(Methods)\obj\Debug\HomeWork4(Methods).exe
+D:\Study\C# projects\Lesson 1\C-Sharp-Course\HomeWork4(Methods)\HomeWork4(Methods)\obj\Debug\HomeWork4(Methods).pdb

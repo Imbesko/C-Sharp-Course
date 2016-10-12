@@ -1,0 +1,2 @@
+D:\Study\C# projects\Lesson 1\C-Sharp-Course\HomeWork6(Polymorphism)\HomeWork6(Polymorphism)\bin\Debug\HomeWork6(Polymorphism).exe.config
+D:\Study\C# projects\Lesson 1\C-Sharp-Course\HomeWork6(Polymorphism)\HomeWork6(Polymorphism)\obj\Debug\HomeWork6(Polymorphism).csprojResolveAssemblyReference.cache

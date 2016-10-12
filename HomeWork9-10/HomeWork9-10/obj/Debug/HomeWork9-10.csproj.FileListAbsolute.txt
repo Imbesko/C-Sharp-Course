@@ -1,6 +1,0 @@
-D:\Study\C# projects\Lesson 1\C-Sharp-Course\HomeWork9-10\HomeWork9-10\bin\Debug\HomeWork9-10.exe.config
-D:\Study\C# projects\Lesson 1\C-Sharp-Course\HomeWork9-10\HomeWork9-10\bin\Debug\HomeWork9-10.exe
-D:\Study\C# projects\Lesson 1\C-Sharp-Course\HomeWork9-10\HomeWork9-10\bin\Debug\HomeWork9-10.pdb
-D:\Study\C# projects\Lesson 1\C-Sharp-Course\HomeWork9-10\HomeWork9-10\obj\Debug\HomeWork9-10.csprojResolveAssemblyReference.cache
-D:\Study\C# projects\Lesson 1\C-Sharp-Course\HomeWork9-10\HomeWork9-10\obj\Debug\HomeWork9-10.exe
-D:\Study\C# projects\Lesson 1\C-Sharp-Course\HomeWork9-10\HomeWork9-10\obj\Debug\HomeWork9-10.pdb

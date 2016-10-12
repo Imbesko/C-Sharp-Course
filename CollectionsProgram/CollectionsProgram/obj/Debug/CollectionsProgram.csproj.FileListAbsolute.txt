@@ -1,0 +1,6 @@
+D:\Study\C# projects\Lesson 1\C-Sharp-Course\CollectionsProgram\CollectionsProgram\bin\Debug\CollectionsProgram.exe.config
+D:\Study\C# projects\Lesson 1\C-Sharp-Course\CollectionsProgram\CollectionsProgram\bin\Debug\CollectionsProgram.exe
+D:\Study\C# projects\Lesson 1\C-Sharp-Course\CollectionsProgram\CollectionsProgram\bin\Debug\CollectionsProgram.pdb
+D:\Study\C# projects\Lesson 1\C-Sharp-Course\CollectionsProgram\CollectionsProgram\obj\Debug\CollectionsProgram.csprojResolveAssemblyReference.cache
+D:\Study\C# projects\Lesson 1\C-Sharp-Course\CollectionsProgram\CollectionsProgram\obj\Debug\CollectionsProgram.exe
+D:\Study\C# projects\Lesson 1\C-Sharp-Course\CollectionsProgram\CollectionsProgram\obj\Debug\CollectionsProgram.pdb

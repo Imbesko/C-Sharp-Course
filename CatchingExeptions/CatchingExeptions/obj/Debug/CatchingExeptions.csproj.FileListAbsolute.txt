@@ -1,0 +1,6 @@
+D:\Study\C# projects\Lesson 1\C-Sharp-Course\CatchingExeptions\CatchingExeptions\bin\Debug\CatchingExeptions.exe.config
+D:\Study\C# projects\Lesson 1\C-Sharp-Course\CatchingExeptions\CatchingExeptions\bin\Debug\CatchingExeptions.exe
+D:\Study\C# projects\Lesson 1\C-Sharp-Course\CatchingExeptions\CatchingExeptions\bin\Debug\CatchingExeptions.pdb
+D:\Study\C# projects\Lesson 1\C-Sharp-Course\CatchingExeptions\CatchingExeptions\obj\Debug\CatchingExeptions.csprojResolveAssemblyReference.cache
+D:\Study\C# projects\Lesson 1\C-Sharp-Course\CatchingExeptions\CatchingExeptions\obj\Debug\CatchingExeptions.exe
+D:\Study\C# projects\Lesson 1\C-Sharp-Course\CatchingExeptions\CatchingExeptions\obj\Debug\CatchingExeptions.pdb

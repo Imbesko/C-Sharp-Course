@@ -1,0 +1,6 @@
+D:\Study\C# projects\Lesson 1\C-Sharp-Course\HomeWork2\HomeWork2\bin\Debug\HomeWork2.exe.config
+D:\Study\C# projects\Lesson 1\C-Sharp-Course\HomeWork2\HomeWork2\bin\Debug\HomeWork2.exe
+D:\Study\C# projects\Lesson 1\C-Sharp-Course\HomeWork2\HomeWork2\bin\Debug\HomeWork2.pdb
+D:\Study\C# projects\Lesson 1\C-Sharp-Course\HomeWork2\HomeWork2\obj\Debug\HomeWork2.csprojResolveAssemblyReference.cache
+D:\Study\C# projects\Lesson 1\C-Sharp-Course\HomeWork2\HomeWork2\obj\Debug\HomeWork2.exe
+D:\Study\C# projects\Lesson 1\C-Sharp-Course\HomeWork2\HomeWork2\obj\Debug\HomeWork2.pdb

@@ -1,0 +1,5 @@
+D:\Study\C# projects\Lesson 1\C-Sharp-Course\FunWithFiles\FunWithFiles\bin\Debug\FunWithFiles.exe.config
+D:\Study\C# projects\Lesson 1\C-Sharp-Course\FunWithFiles\FunWithFiles\bin\Debug\FunWithFiles.exe
+D:\Study\C# projects\Lesson 1\C-Sharp-Course\FunWithFiles\FunWithFiles\bin\Debug\FunWithFiles.pdb
+D:\Study\C# projects\Lesson 1\C-Sharp-Course\FunWithFiles\FunWithFiles\obj\Debug\FunWithFiles.exe
+D:\Study\C# projects\Lesson 1\C-Sharp-Course\FunWithFiles\FunWithFiles\obj\Debug\FunWithFiles.pdb

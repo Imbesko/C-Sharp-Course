@@ -1,0 +1,6 @@
+D:\Study\C# projects\Lesson 1\C-Sharp-Course\HomeWork13-14\HomeWork13-14\obj\Debug\Home_Encapsulation.csprojResolveAssemblyReference.cache
+D:\Study\C# projects\Lesson 1\C-Sharp-Course\HomeWork13-14\HomeWork13-14\bin\Debug\HomeWork13-14.exe.config
+D:\Study\C# projects\Lesson 1\C-Sharp-Course\HomeWork13-14\HomeWork13-14\bin\Debug\HomeWork13-14.exe
+D:\Study\C# projects\Lesson 1\C-Sharp-Course\HomeWork13-14\HomeWork13-14\bin\Debug\HomeWork13-14.pdb
+D:\Study\C# projects\Lesson 1\C-Sharp-Course\HomeWork13-14\HomeWork13-14\obj\Debug\HomeWork13-14.exe
+D:\Study\C# projects\Lesson 1\C-Sharp-Course\HomeWork13-14\HomeWork13-14\obj\Debug\HomeWork13-14.pdb
